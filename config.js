@@ -57,7 +57,7 @@ global.SESSION_ID =
 
 
   
-  //Make sure session id starts with Byte;;;
+Byte config.js  //Make sure session id starts with Byte;;;
 
 
 
